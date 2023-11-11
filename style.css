@@ -1,0 +1,52 @@
+body {
+    font-family: unset;
+}
+header{
+    color: blue;
+    background-color: lightblue;
+    padding: 10px;
+}
+header img{
+        height: 60px;
+        width: 60px;
+}
+header a{
+    background-color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 2px;
+    margin-bottom: 1px;
+}
+h1{
+    color: orange;
+    border: 2px solid purple;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+footer p{
+    background-color: white
+}
+footer{
+    background-color: peru;
+    padding: 4px;
+}
+nav{
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+.pop{
+    background-color: rgb(42, 168, 31);
+}
+h2{
+    color: blue;
+    height: 20px;
+
+}
